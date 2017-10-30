@@ -1,0 +1,11 @@
+/* Universal Styles */
+body {
+  font-family: "Oswald", sans-serif;
+  font-size: 18px;
+  font-weight: 300px;
+}
+
+ul {
+  margin: 0;
+}
+
